@@ -1,0 +1,125 @@
+{
+  "versions": [
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/145.0.7632.75",
+      "version": "145.0.7632.75"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/145.0.7632.67",
+      "version": "145.0.7632.67"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/145.0.7632.45",
+      "version": "145.0.7632.45"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/144.0.7559.132",
+      "version": "144.0.7559.132"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/144.0.7559.109",
+      "version": "144.0.7559.109"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/144.0.7559.96",
+      "version": "144.0.7559.96"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/144.0.7559.59",
+      "version": "144.0.7559.59"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/143.0.7499.192",
+      "version": "143.0.7499.192"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/143.0.7499.169",
+      "version": "143.0.7499.169"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/143.0.7499.146",
+      "version": "143.0.7499.146"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/143.0.7499.109",
+      "version": "143.0.7499.109"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/143.0.7499.40",
+      "version": "143.0.7499.40"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/142.0.7444.175",
+      "version": "142.0.7444.175"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/142.0.7444.162",
+      "version": "142.0.7444.162"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/142.0.7444.134",
+      "version": "142.0.7444.134"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/142.0.7444.59",
+      "version": "142.0.7444.59"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/141.0.7390.122",
+      "version": "141.0.7390.122"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/141.0.7390.107",
+      "version": "141.0.7390.107"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/141.0.7390.76",
+      "version": "141.0.7390.76"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/141.0.7390.65",
+      "version": "141.0.7390.65"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/141.0.7390.54",
+      "version": "141.0.7390.54"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/140.0.7339.207",
+      "version": "140.0.7339.207"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/140.0.7339.185",
+      "version": "140.0.7339.185"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/140.0.7339.127",
+      "version": "140.0.7339.127"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/140.0.7339.80",
+      "version": "140.0.7339.80"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/139.0.7258.154",
+      "version": "139.0.7258.154"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/139.0.7258.138",
+      "version": "139.0.7258.138"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/139.0.7258.127",
+      "version": "139.0.7258.127"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/139.0.7258.66",
+      "version": "139.0.7258.66"
+    },
+    {
+      "name": "chrome/platforms/linux/channels/stable/versions/138.0.7204.183",
+      "version": "138.0.7204.183"
+    }
+  ],
+  "nextPageToken": "3708130618"
+}

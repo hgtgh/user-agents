@@ -1,0 +1,575 @@
+[
+  {
+    "Product": "Stable",
+    "Releases": [
+      {
+        "ReleaseId": 113237,
+        "Platform": "iOS",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "ProductVersion": "144.0.3719.115",
+        "Artifacts": [],
+        "PublishedTime": "2026-02-09T01:52:00",
+        "ExpectedExpiryDate": "2027-02-09T01:52:00"
+      },
+      {
+        "ReleaseId": 113518,
+        "Platform": "Android",
+        "Architecture": "arm64",
+        "CVEs": [
+          "CVE-2026-1861",
+          "CVE-2026-1862"
+        ],
+        "SeverityLevel": "Important",
+        "ProductVersion": "144.0.3719.115",
+        "Artifacts": [],
+        "PublishedTime": "2026-02-12T05:47:00",
+        "ExpectedExpiryDate": "2026-05-12T05:47:00"
+      },
+      {
+        "ReleaseId": 113639,
+        "Platform": "Linux",
+        "Architecture": "x64",
+        "CVEs": [
+          "CVE-2026-0102",
+          "CVE-2026-2313",
+          "CVE-2026-2314",
+          "CVE-2026-2316",
+          "CVE-2026-2317",
+          "CVE-2026-2318",
+          "CVE-2026-2319",
+          "CVE-2026-2320",
+          "CVE-2026-2321",
+          "CVE-2026-2322",
+          "CVE-2026-2323",
+          "CVE-2026-2441"
+        ],
+        "SeverityLevel": "0-Day",
+        "ProductVersion": "145.0.3800.58",
+        "Artifacts": [
+          {
+            "ArtifactName": "rpm",
+            "Location": "https://packages.microsoft.com/yumrepos/edge/microsoft-edge-stable-145.0.3800.58-1.x86_64.rpm",
+            "Hash": "C98AE384EBAC98D28D35890A6859E6A54E9AC55B65E2B2E0A24DC167270FB612",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 183086037
+          },
+          {
+            "ArtifactName": "deb",
+            "Location": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_145.0.3800.58-1_amd64.deb",
+            "Hash": "4665DEE70ED44002E38C43DFAC7DE5E67CA2D14E7CC793A536BB5F588638F14D",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 180698262
+          }
+        ],
+        "PublishedTime": "2026-02-14T07:20:00",
+        "ExpectedExpiryDate": "2027-02-14T07:20:00"
+      },
+      {
+        "ReleaseId": 113670,
+        "Platform": "MacOS",
+        "Architecture": "universal",
+        "CVEs": [
+          "CVE-2026-0102",
+          "CVE-2026-2313",
+          "CVE-2026-2314",
+          "CVE-2026-2317",
+          "CVE-2026-2318",
+          "CVE-2026-2320",
+          "CVE-2026-2323",
+          "CVE-2026-2441"
+        ],
+        "SeverityLevel": "0-Day",
+        "ProductVersion": "145.0.3800.58",
+        "Artifacts": [
+          {
+            "ArtifactName": "pkg",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c8f17ce9-d8a5-4b77-9086-cebf7c76df88/MicrosoftEdge-145.0.3800.58.pkg",
+            "Hash": "7040B0B9969B789EE85FB14DAFEE7DB58D8F79692058691144B568DFBB8F7039",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 414120189
+          },
+          {
+            "ArtifactName": "plist",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ff65e796-53db-455c-964f-e272e9685c9e/MicrosoftEdge-145.0.3800.58.plist",
+            "Hash": "79221CA6FFF6F88FF96C4663EEA95962C6981AC8A32D18AAA745402E32A1DE12",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 4009
+          },
+          {
+            "ArtifactName": "p7s",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1748c39f-866b-4f5e-b3bb-ad702fcfbb2a/signature.p7s",
+            "Hash": "ACF65CF5287383ACF40E75C3162C798B39CA4B4049497B7D3313DCE337089B02",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 9376
+          }
+        ],
+        "PublishedTime": "2026-02-15T22:53:00",
+        "ExpectedExpiryDate": "2027-02-14T09:16:00"
+      },
+      {
+        "ReleaseId": 113794,
+        "Platform": "Windows",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "145.0.3800.65",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a64dd56a-7dc3-4c3f-8905-d41ac45cfee8/MicrosoftEdgeEnterpriseARM64.msi",
+            "Hash": "FDCA8034DA9428A646AB22E80AC790987DEB2E99EC5566FFB460184CB1A3C834",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 201093120
+          }
+        ],
+        "PublishedTime": "2026-02-17T18:32:00",
+        "ExpectedExpiryDate": "2027-02-17T18:05:00"
+      },
+      {
+        "ReleaseId": 113797,
+        "Platform": "Windows",
+        "Architecture": "x64",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "145.0.3800.65",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/20afa02d-8004-431c-8489-cce6c4985212/MicrosoftEdgeEnterpriseX64.msi",
+            "Hash": "F69AC2A2B45CD4F76933F93F6CBD08998872C657F88B2AA3AFC27B0FFE46DD74",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 192679936
+          }
+        ],
+        "PublishedTime": "2026-02-17T18:45:00",
+        "ExpectedExpiryDate": "2027-02-17T18:07:00"
+      },
+      {
+        "ReleaseId": 113801,
+        "Platform": "Windows",
+        "Architecture": "x86",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "145.0.3800.65",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2b30903b-f960-45ca-9147-1a247ea9a44e/MicrosoftEdgeEnterpriseX86.msi",
+            "Hash": "364F76BC4B7BBF9B9BBF8D7B74ED507CFE0444FD7C713F0C9CF8FC8A7A17E679",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 171192320
+          }
+        ],
+        "PublishedTime": "2026-02-17T18:44:00",
+        "ExpectedExpiryDate": "2027-02-17T18:17:00"
+      }
+    ]
+  },
+  {
+    "Product": "Beta",
+    "Releases": [
+      {
+        "ReleaseId": 113530,
+        "Platform": "iOS",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "ProductVersion": "145.0.3800.54",
+        "Artifacts": [],
+        "PublishedTime": "2026-02-12T12:13:00",
+        "ExpectedExpiryDate": "2026-05-12T12:13:00"
+      },
+      {
+        "ReleaseId": 113552,
+        "Platform": "Android",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "ProductVersion": "145.0.3800.54",
+        "Artifacts": [],
+        "PublishedTime": "2026-02-13T12:30:00",
+        "ExpectedExpiryDate": "2026-05-13T12:30:00"
+      },
+      {
+        "ReleaseId": 113625,
+        "Platform": "Linux",
+        "Architecture": "x64",
+        "CVEs": [
+          "CVE-2026-0102",
+          "CVE-2026-2313",
+          "CVE-2026-2314",
+          "CVE-2026-2316",
+          "CVE-2026-2317",
+          "CVE-2026-2318",
+          "CVE-2026-2319",
+          "CVE-2026-2320",
+          "CVE-2026-2321",
+          "CVE-2026-2322",
+          "CVE-2026-2323",
+          "CVE-2026-2441"
+        ],
+        "SeverityLevel": "0-Day",
+        "ProductVersion": "145.0.3800.58",
+        "Artifacts": [
+          {
+            "ArtifactName": "rpm",
+            "Location": "https://packages.microsoft.com/yumrepos/edge/microsoft-edge-beta-145.0.3800.58-1.x86_64.rpm",
+            "Hash": "FAD351B582121C8596B6DE1F080A3F3D691D7A96AEB7E99AC7EA05F2EB890084",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 183099621
+          },
+          {
+            "ArtifactName": "deb",
+            "Location": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_145.0.3800.58-1_amd64.deb",
+            "Hash": "6E15C6A61691E503CF48B08CD99C46A074EA83E6A9026240C8AC981D1E050BCD",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 180765958
+          }
+        ],
+        "PublishedTime": "2026-02-14T07:10:00",
+        "ExpectedExpiryDate": "2026-05-14T07:10:00"
+      },
+      {
+        "ReleaseId": 113742,
+        "Platform": "MacOS",
+        "Architecture": "universal",
+        "CVEs": [
+          "CVE-2026-0102",
+          "CVE-2026-2313",
+          "CVE-2026-2314",
+          "CVE-2026-2317",
+          "CVE-2026-2318",
+          "CVE-2026-2320",
+          "CVE-2026-2323",
+          "CVE-2026-2441"
+        ],
+        "SeverityLevel": "0-Day",
+        "ProductVersion": "145.0.3800.58",
+        "Artifacts": [
+          {
+            "ArtifactName": "pkg",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/25e43803-1b9f-4ecb-b60d-4570a9c86ef1/MicrosoftEdgeBeta-145.0.3800.58.pkg",
+            "Hash": "6EAF96EE1CA303A27F899B0BFBFADBEC667E44B2C727B6C0133FD63CC4303D02",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 414850537
+          },
+          {
+            "ArtifactName": "plist",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/03f8a293-e600-481f-807a-9189f867bed5/MicrosoftEdgeBeta-145.0.3800.58.plist",
+            "Hash": "38010CEF25FA162301909AE6A70E647DC21D403260C8ABB49BAC616F1007E100",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 4023
+          },
+          {
+            "ArtifactName": "p7s",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ccdbda8e-115f-4ee2-94b2-01aea2efb3a2/signature.p7s",
+            "Hash": "12DEBF3B79344D2AF991B9D7B2DECE298F1A8102B71A406166CF278B746DECB1",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 9390
+          }
+        ],
+        "PublishedTime": "2026-02-16T18:04:00",
+        "ExpectedExpiryDate": "2026-05-16T18:04:00"
+      },
+      {
+        "ReleaseId": 113805,
+        "Platform": "Windows",
+        "Architecture": "x86",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "145.0.3800.65",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d127e543-6e9c-4e4d-b6d8-48da02367faa/MicrosoftEdgeBetaEnterpriseX86.msi",
+            "Hash": "E567320CCAACE12C9A66558334C2DB5D0D44BC8274E293639D2166B9873CC0DA",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 171192320
+          }
+        ],
+        "PublishedTime": "2026-02-17T18:24:00",
+        "ExpectedExpiryDate": "2026-05-17T18:24:00"
+      },
+      {
+        "ReleaseId": 113806,
+        "Platform": "Windows",
+        "Architecture": "x64",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "145.0.3800.65",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/973ef752-ff5d-437e-be26-0579ab1b6342/MicrosoftEdgeBetaEnterpriseX64.msi",
+            "Hash": "3ADA9336F1FEB34487632E3FFDD14C5F05969CE79F2CBA50D8B40C51D97498B5",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 192679936
+          }
+        ],
+        "PublishedTime": "2026-02-17T18:25:00",
+        "ExpectedExpiryDate": "2026-05-17T18:25:00"
+      },
+      {
+        "ReleaseId": 113810,
+        "Platform": "Windows",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "145.0.3800.65",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/28f779de-dcb9-4b51-a56d-0cebf6d33e18/MicrosoftEdgeBetaEnterpriseARM64.msi",
+            "Hash": "DF023CFB0A147520A04E6337BD8C5FA9E19C8B9D3BAC765E08A21FEE28B3F252",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 201093120
+          }
+        ],
+        "PublishedTime": "2026-02-17T18:29:00",
+        "ExpectedExpiryDate": "2026-05-17T18:29:00"
+      }
+    ]
+  },
+  {
+    "Product": "Dev",
+    "Releases": [
+      {
+        "ReleaseId": 112216,
+        "Platform": "Android",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "ProductVersion": "145.0.3800.8",
+        "Artifacts": [],
+        "PublishedTime": "2026-01-23T01:54:00",
+        "ExpectedExpiryDate": "2026-04-23T01:54:00"
+      },
+      {
+        "ReleaseId": 112573,
+        "Platform": "iOS",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "ProductVersion": "146.0.3817.0",
+        "Artifacts": [],
+        "PublishedTime": "2026-01-28T02:00:00",
+        "ExpectedExpiryDate": "2026-04-28T02:00:00"
+      },
+      {
+        "ReleaseId": 113374,
+        "Platform": "MacOS",
+        "Architecture": "universal",
+        "CVEs": [],
+        "ProductVersion": "146.0.3844.0",
+        "Artifacts": [
+          {
+            "ArtifactName": "pkg",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/08ea4116-ad64-423d-8e5f-ad2babc37bf5/MicrosoftEdgeDev-146.0.3844.0.pkg",
+            "Hash": "2A1009F331F0191142DEBBED388B910AEA11CACEE0676761FA01A044775FBBCC",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 421082842
+          },
+          {
+            "ArtifactName": "plist",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a33f4df5-c4c3-4f0f-855e-c6918302438f/MicrosoftEdgeDev-146.0.3844.0.plist",
+            "Hash": "4E4570850164E6B1E6E3B06676A6F05E4CAA4501079BAA522DE09A6232B8A2C9",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 4084
+          },
+          {
+            "ArtifactName": "p7s",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/83cd3981-2ffe-4fcc-9d3d-44246dd14f91/signature.p7s",
+            "Hash": "A4F3B3EB2302A00650586E9D6EDA80086E09BC0BDD0858D8A4D6A2413538B392",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 9451
+          }
+        ],
+        "PublishedTime": "2026-02-10T19:30:00",
+        "ExpectedExpiryDate": "2026-05-10T19:30:00"
+      },
+      {
+        "ReleaseId": 113397,
+        "Platform": "Linux",
+        "Architecture": "x64",
+        "CVEs": [],
+        "ProductVersion": "146.0.3844.0",
+        "Artifacts": [
+          {
+            "ArtifactName": "rpm",
+            "Location": "https://packages.microsoft.com/yumrepos/edge/microsoft-edge-dev-146.0.3844.0-1.x86_64.rpm",
+            "Hash": "E4FEF0C2521D9FF0847DDF73F992504FA4FCFB85B47C9314A0666AB2A07958FA",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 188516357
+          },
+          {
+            "ArtifactName": "deb",
+            "Location": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_146.0.3844.0-1_amd64.deb",
+            "Hash": "106ED681A705A5E445EC4A3B7F1CAFC0BD3164228F7D7F786D224D081CB181F0",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 186125406
+          }
+        ],
+        "PublishedTime": "2026-02-10T19:41:00",
+        "ExpectedExpiryDate": "2026-05-10T19:41:00"
+      },
+      {
+        "ReleaseId": 113863,
+        "Platform": "Windows",
+        "Architecture": "x64",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "146.0.3856.9",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/709c84e9-18a2-4d26-8ea3-d2191639bba0/MicrosoftEdgeDevEnterpriseX64.msi",
+            "Hash": "AFE9984987E9E1B7204A7DD5E8F4764A6ED2D0B4A3F7A9615C8DCC7E69BF7238",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 199041024
+          }
+        ],
+        "PublishedTime": "2026-02-18T00:18:00",
+        "ExpectedExpiryDate": "2026-05-18T00:18:00"
+      },
+      {
+        "ReleaseId": 113864,
+        "Platform": "Windows",
+        "Architecture": "x86",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "146.0.3856.9",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6d8977e7-3c05-42e7-9ced-6414026f7c18/MicrosoftEdgeDevEnterpriseX86.msi",
+            "Hash": "B62FA3B7464CFC4A625931CD4FE80D5E897D40A712BCB793496A3F56D0985A18",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 179073024
+          }
+        ],
+        "PublishedTime": "2026-02-18T00:19:00",
+        "ExpectedExpiryDate": "2026-05-18T00:19:00"
+      },
+      {
+        "ReleaseId": 113871,
+        "Platform": "Windows",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "146.0.3856.9",
+        "Artifacts": [
+          {
+            "ArtifactName": "msi",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/993195c6-6219-4d51-a8f0-6f726a71c9e5/MicrosoftEdgeDevEnterpriseARM64.msi",
+            "Hash": "1A73150F4F8FB799D24D156B6B0EBED60A57335BA4A075FEA75E132889A092A7",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 206880768
+          }
+        ],
+        "PublishedTime": "2026-02-18T00:22:00",
+        "ExpectedExpiryDate": "2026-05-18T00:22:00"
+      }
+    ]
+  },
+  {
+    "Product": "Canary",
+    "Releases": [
+      {
+        "ReleaseId": 113502,
+        "Platform": "Android",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "ProductVersion": "146.0.3853.0",
+        "Artifacts": [],
+        "PublishedTime": "2026-02-12T01:15:00",
+        "ExpectedExpiryDate": "2026-05-12T01:15:00"
+      },
+      {
+        "ReleaseId": 113840,
+        "Platform": "Windows",
+        "Architecture": "x86",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "147.0.3867.0",
+        "Artifacts": [],
+        "PublishedTime": "2026-02-17T22:59:00",
+        "ExpectedExpiryDate": "2026-05-17T20:52:00"
+      },
+      {
+        "ReleaseId": 113841,
+        "Platform": "Windows",
+        "Architecture": "arm64",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "147.0.3867.0",
+        "Artifacts": [],
+        "PublishedTime": "2026-02-17T22:48:00",
+        "ExpectedExpiryDate": "2026-05-17T20:53:00"
+      },
+      {
+        "ReleaseId": 113842,
+        "Platform": "Windows",
+        "Architecture": "x64",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "147.0.3867.0",
+        "Artifacts": [],
+        "PublishedTime": "2026-02-17T22:58:00",
+        "ExpectedExpiryDate": "2026-05-17T20:54:00"
+      },
+      {
+        "ReleaseId": 113848,
+        "Platform": "MacOS",
+        "Architecture": "universal",
+        "CVEs": [],
+        "SeverityLevel": "None",
+        "ProductVersion": "147.0.3867.0",
+        "Artifacts": [
+          {
+            "ArtifactName": "pkg",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b4d66235-2286-4411-be7c-91bd796758ee/MicrosoftEdgeCanary-147.0.3867.0.pkg",
+            "Hash": "DD08143F008FFD55396862B5BE795A5AF232ADF3845CA0A6717883DC45C8BFE0",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 420407238
+          },
+          {
+            "ArtifactName": "plist",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/da2be1d2-c12e-4743-a80d-2e3e1a531092/MicrosoftEdgeCanary-147.0.3867.0.plist",
+            "Hash": "7BFA9F15152B44E621A6BD056D749D0225002CF61EB00B136F10A646E6FCA36F",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 4093
+          },
+          {
+            "ArtifactName": "p7s",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cf888824-db64-4dde-8bea-812fddd521b2/signature.p7s",
+            "Hash": "35BBA074A8B073BBE8EE5922DD985383E0BF66BF9BC47C04F5F88FAAD5DA3A46",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 9460
+          }
+        ],
+        "PublishedTime": "2026-02-17T23:01:00",
+        "ExpectedExpiryDate": "2026-05-17T23:01:00"
+      }
+    ]
+  },
+  {
+    "Product": "EdgeUpdate",
+    "Releases": [
+      {
+        "ReleaseId": 113594,
+        "Platform": "Windows",
+        "Architecture": "x86",
+        "CVEs": [],
+        "ProductVersion": "1.3.221.3",
+        "Artifacts": [
+          {
+            "ArtifactName": "exe",
+            "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/43e76903-7526-49e2-95b1-454e12a8c13b/MicrosoftEdgeUpdateSetup_X86_1.3.221.3.exe",
+            "Hash": "F82C89D017826C274CC76A714BA7C9F062C2C5E8589FD386BE3621FBE19831E6",
+            "HashAlgorithm": "SHA256",
+            "SizeInBytes": 1680992
+          }
+        ],
+        "PublishedTime": "2026-02-14T05:06:00",
+        "ExpectedExpiryDate": "2027-02-14T05:06:00"
+      }
+    ]
+  }
+]

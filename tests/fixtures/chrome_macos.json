@@ -1,0 +1,125 @@
+{
+  "versions": [
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/145.0.7632.76",
+      "version": "145.0.7632.76"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/145.0.7632.75",
+      "version": "145.0.7632.75"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/145.0.7632.68",
+      "version": "145.0.7632.68"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/145.0.7632.46",
+      "version": "145.0.7632.46"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/145.0.7632.45",
+      "version": "145.0.7632.45"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/145.0.7632.26",
+      "version": "145.0.7632.26"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.135",
+      "version": "144.0.7559.135"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.134",
+      "version": "144.0.7559.134"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.133",
+      "version": "144.0.7559.133"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.132",
+      "version": "144.0.7559.132"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.112",
+      "version": "144.0.7559.112"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.111",
+      "version": "144.0.7559.111"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.110",
+      "version": "144.0.7559.110"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.109",
+      "version": "144.0.7559.109"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.98",
+      "version": "144.0.7559.98"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.97",
+      "version": "144.0.7559.97"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.96",
+      "version": "144.0.7559.96"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.61",
+      "version": "144.0.7559.61"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.60",
+      "version": "144.0.7559.60"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/144.0.7559.59",
+      "version": "144.0.7559.59"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.194",
+      "version": "143.0.7499.194"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.193",
+      "version": "143.0.7499.193"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.192",
+      "version": "143.0.7499.192"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.171",
+      "version": "143.0.7499.171"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.170",
+      "version": "143.0.7499.170"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.169",
+      "version": "143.0.7499.169"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.148",
+      "version": "143.0.7499.148"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.147",
+      "version": "143.0.7499.147"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.146",
+      "version": "143.0.7499.146"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/stable/versions/143.0.7499.111",
+      "version": "143.0.7499.111"
+    }
+  ],
+  "nextPageToken": "3798722589"
+}

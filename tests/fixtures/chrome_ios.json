@@ -1,0 +1,125 @@
+{
+  "versions": [
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/145.0.7632.55",
+      "version": "145.0.7632.55"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/145.0.7632.41",
+      "version": "145.0.7632.41"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/145.0.7632.34",
+      "version": "145.0.7632.34"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/144.0.7559.95",
+      "version": "144.0.7559.95"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/144.0.7559.85",
+      "version": "144.0.7559.85"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/144.0.7559.53",
+      "version": "144.0.7559.53"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/143.0.7499.151",
+      "version": "143.0.7499.151"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/143.0.7499.108",
+      "version": "143.0.7499.108"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/143.0.7499.92",
+      "version": "143.0.7499.92"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/143.0.7499.38",
+      "version": "143.0.7499.38"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/142.0.7444.148",
+      "version": "142.0.7444.148"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/142.0.7444.128",
+      "version": "142.0.7444.128"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/142.0.7444.77",
+      "version": "142.0.7444.77"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/142.0.7444.46",
+      "version": "142.0.7444.46"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/141.0.7390.96",
+      "version": "141.0.7390.96"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/141.0.7390.69",
+      "version": "141.0.7390.69"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/141.0.7390.41",
+      "version": "141.0.7390.41"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/141.0.7390.26",
+      "version": "141.0.7390.26"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/140.0.7339.122",
+      "version": "140.0.7339.122"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/140.0.7339.101",
+      "version": "140.0.7339.101"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/140.0.7339.95",
+      "version": "140.0.7339.95"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/140.0.7339.39",
+      "version": "140.0.7339.39"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/139.0.7258.76",
+      "version": "139.0.7258.76"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/139.0.7258.60",
+      "version": "139.0.7258.60"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/138.0.7204.156",
+      "version": "138.0.7204.156"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/138.0.7204.119",
+      "version": "138.0.7204.119"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/138.0.7204.56",
+      "version": "138.0.7204.56"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/138.0.7204.53",
+      "version": "138.0.7204.53"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/138.0.7204.33",
+      "version": "138.0.7204.33"
+    },
+    {
+      "name": "chrome/platforms/ios/channels/stable/versions/137.0.7151.107",
+      "version": "137.0.7151.107"
+    }
+  ],
+  "nextPageToken": "1692525236"
+}

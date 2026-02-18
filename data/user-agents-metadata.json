@@ -1,0 +1,173 @@
+{
+  "updated_at": "2026-02-18T11:12:57Z",
+  "sources": {
+    "firefox": {
+      "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
+      "mobile": "https://product-details.mozilla.org/1.0/mobile_versions.json"
+    },
+    "chrome": {
+      "windows": "https://versionhistory.googleapis.com/v1/chrome/platforms/win64/channels/stable/versions?order_by=version%20desc&pageSize=30",
+      "macos": "https://versionhistory.googleapis.com/v1/chrome/platforms/mac/channels/stable/versions?order_by=version%20desc&pageSize=30",
+      "linux": "https://versionhistory.googleapis.com/v1/chrome/platforms/linux/channels/stable/versions?order_by=version%20desc&pageSize=30",
+      "android": "https://versionhistory.googleapis.com/v1/chrome/platforms/android/channels/stable/versions?order_by=version%20desc&pageSize=30",
+      "ios": "https://versionhistory.googleapis.com/v1/chrome/platforms/ios/channels/stable/versions?order_by=version%20desc&pageSize=30"
+    },
+    "edge": "https://edgeupdates.microsoft.com/api/products",
+    "safari": "https://developer.apple.com/tutorials/data/index/safari-release-notes"
+  },
+  "resolved_versions": {
+    "firefox": {
+      "windows": "147.0.4",
+      "macos": "147.0.4",
+      "linux": "147.0.4",
+      "ubuntu": "147.0.4",
+      "android": "147.0.4",
+      "ios": "147.0.4"
+    },
+    "chrome": {
+      "windows": [
+        "145.0.7632.76",
+        "144.0.7559.135",
+        "143.0.7499.194"
+      ],
+      "macos": [
+        "145.0.7632.76",
+        "144.0.7559.135",
+        "143.0.7499.194"
+      ],
+      "linux": [
+        "145.0.7632.75",
+        "144.0.7559.132",
+        "143.0.7499.192"
+      ],
+      "android": [
+        "145.0.7632.75",
+        "144.0.7559.133",
+        "143.0.7499.194"
+      ],
+      "ios": [
+        "145.0.7632.55",
+        "144.0.7559.95",
+        "143.0.7499.151"
+      ]
+    },
+    "edge": {
+      "ios": "144.0.3719.115",
+      "android": "144.0.3719.115",
+      "linux": "145.0.3800.58",
+      "macos": "145.0.3800.58",
+      "windows": "145.0.3800.65"
+    },
+    "safari": {
+      "macos": "26.3",
+      "ios": "26.3"
+    }
+  },
+  "user_agents": [
+    {
+      "browser": "firefox",
+      "platform": "desktop",
+      "os": "windows",
+      "browser_major_version": "147",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    },
+    {
+      "browser": "firefox",
+      "platform": "desktop",
+      "os": "macos",
+      "browser_major_version": "147",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    },
+    {
+      "browser": "firefox",
+      "platform": "desktop",
+      "os": "linux",
+      "browser_major_version": "147",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    },
+    {
+      "browser": "firefox",
+      "platform": "desktop",
+      "os": "ubuntu",
+      "browser_major_version": "147",
+      "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "windows",
+      "browser_major_version": "145",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "windows",
+      "browser_major_version": "144",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "windows",
+      "browser_major_version": "143",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "macos",
+      "browser_major_version": "145",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "macos",
+      "browser_major_version": "144",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "macos",
+      "browser_major_version": "143",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "linux",
+      "browser_major_version": "145",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "linux",
+      "browser_major_version": "144",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "linux",
+      "browser_major_version": "143",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "edge",
+      "platform": "desktop",
+      "os": "windows",
+      "browser_major_version": "145",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+    },
+    {
+      "browser": "safari",
+      "platform": "desktop",
+      "os": "macos",
+      "browser_major_version": "26",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15"
+    }
+  ]
+}

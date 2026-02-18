@@ -1,0 +1,26 @@
+name: Run tests
+
+on:
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - "data/**"
+  pull_request:
+    paths-ignore:
+      - "data/**"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: make test

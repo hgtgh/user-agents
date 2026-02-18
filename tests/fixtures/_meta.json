@@ -1,0 +1,47 @@
+{
+  "firefox_desktop.json": {
+    "url": "https://product-details.mozilla.org/1.0/firefox_versions.json",
+    "provider": "firefox",
+    "source_key": "desktop"
+  },
+  "firefox_mobile.json": {
+    "url": "https://product-details.mozilla.org/1.0/mobile_versions.json",
+    "provider": "firefox",
+    "source_key": "mobile"
+  },
+  "chrome_windows.json": {
+    "url": "https://versionhistory.googleapis.com/v1/chrome/platforms/win64/channels/stable/versions?order_by=version%20desc&pageSize=30",
+    "provider": "chrome",
+    "source_key": "windows"
+  },
+  "chrome_macos.json": {
+    "url": "https://versionhistory.googleapis.com/v1/chrome/platforms/mac/channels/stable/versions?order_by=version%20desc&pageSize=30",
+    "provider": "chrome",
+    "source_key": "macos"
+  },
+  "chrome_linux.json": {
+    "url": "https://versionhistory.googleapis.com/v1/chrome/platforms/linux/channels/stable/versions?order_by=version%20desc&pageSize=30",
+    "provider": "chrome",
+    "source_key": "linux"
+  },
+  "chrome_android.json": {
+    "url": "https://versionhistory.googleapis.com/v1/chrome/platforms/android/channels/stable/versions?order_by=version%20desc&pageSize=30",
+    "provider": "chrome",
+    "source_key": "android"
+  },
+  "chrome_ios.json": {
+    "url": "https://versionhistory.googleapis.com/v1/chrome/platforms/ios/channels/stable/versions?order_by=version%20desc&pageSize=30",
+    "provider": "chrome",
+    "source_key": "ios"
+  },
+  "edge.json": {
+    "url": "https://edgeupdates.microsoft.com/api/products",
+    "provider": "edge",
+    "source_key": "default"
+  },
+  "safari.json": {
+    "url": "https://developer.apple.com/tutorials/data/index/safari-release-notes",
+    "provider": "safari",
+    "source_key": "default"
+  }
+}
