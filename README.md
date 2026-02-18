@@ -1,5 +1,4 @@
-# hgtgh/user-agents
-# User Agents Generator
+# user-agents
 
 Generate realistic, up-to-date User-Agent strings from official browser release feeds.
 
@@ -29,8 +28,8 @@ Currently generated variants:
 
 Outputs:
 
-- `data/user-agents.json`: Plain list of User-Agent strings
-- `data/user-agents-metadata.json`: Detailed records with browser, version, source, and timestamp metadata
+- [`data/user-agents.json`](https://raw.githubusercontent.com/hgtgh/user-agents/main/data/user-agents.json): Plain list of User-Agent strings
+- [`data/user-agents-metadata.json`](https://raw.githubusercontent.com/hgtgh/user-agents/main/data/user-agents-metadata.json): Detailed records with browser, version, source, and timestamp metadata
 
 Common commands:
 
