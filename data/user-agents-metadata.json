@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T06:43:23Z",
+  "updated_at": "2026-02-25T06:46:12Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -17,12 +17,12 @@
   },
   "resolved_versions": {
     "firefox": {
-      "windows": "147.0.4",
-      "macos": "147.0.4",
-      "linux": "147.0.4",
-      "ubuntu": "147.0.4",
-      "android": "147.0.4",
-      "ios": "147.0.4"
+      "windows": "148.0",
+      "macos": "148.0",
+      "linux": "148.0",
+      "ubuntu": "148.0",
+      "android": "148.0",
+      "ios": "148.0"
     },
     "chrome": {
       "windows": [
@@ -68,29 +68,29 @@
       "browser": "firefox",
       "platform": "desktop",
       "os": "windows",
-      "browser_major_version": "147",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+      "browser_major_version": "148",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "macos",
-      "browser_major_version": "147",
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+      "browser_major_version": "148",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "linux",
-      "browser_major_version": "147",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+      "browser_major_version": "148",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "ubuntu",
-      "browser_major_version": "147",
-      "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+      "browser_major_version": "148",
+      "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0"
     },
     {
       "browser": "chrome",
