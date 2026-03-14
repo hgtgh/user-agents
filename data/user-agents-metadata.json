@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-13T06:35:27Z",
+  "updated_at": "2026-03-14T06:30:26Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -26,22 +26,22 @@
     },
     "chrome": {
       "windows": [
-        "146.0.7680.76",
+        "146.0.7680.80",
         "145.0.7632.162",
         "144.0.7559.135"
       ],
       "macos": [
-        "146.0.7680.76",
+        "146.0.7680.80",
         "145.0.7632.162",
         "144.0.7559.135"
       ],
       "linux": [
-        "146.0.7680.75",
+        "146.0.7680.80",
         "145.0.7632.159",
         "144.0.7559.132"
       ],
       "android": [
-        "146.0.7680.115",
+        "146.0.7680.119",
         "145.0.7632.161",
         "144.0.7559.133"
       ],
@@ -52,11 +52,11 @@
       ]
     },
     "edge": {
-      "windows": "145.0.3800.97",
-      "macos": "145.0.3800.97",
-      "linux": "145.0.3800.97",
       "ios": "145.0.3800.99",
-      "android": "145.0.3800.99"
+      "android": "145.0.3800.99",
+      "macos": "146.0.3856.59",
+      "windows": "146.0.3856.59",
+      "linux": "146.0.3856.59"
     },
     "safari": {
       "macos": "26.3",
@@ -159,8 +159,8 @@
       "browser": "edge",
       "platform": "desktop",
       "os": "windows",
-      "browser_major_version": "145",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+      "browser_major_version": "146",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0"
     },
     {
       "browser": "safari",
