@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T06:45:51Z",
+  "updated_at": "2026-03-26T06:52:53Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -26,11 +26,13 @@
     },
     "chrome": {
       "windows": [
-        "146.0.7680.165",
+        "147.0.7727.24",
+        "146.0.7680.166",
         "145.0.7632.162"
       ],
       "macos": [
-        "146.0.7680.165",
+        "147.0.7727.24",
+        "146.0.7680.166",
         "145.0.7632.162"
       ],
       "linux": [
@@ -39,14 +41,14 @@
         "144.0.7559.132"
       ],
       "android": [
-        "146.0.7680.164",
-        "145.0.7632.161",
-        "144.0.7559.133"
+        "147.0.7727.24",
+        "146.0.7680.165",
+        "145.0.7632.161"
       ],
       "ios": [
+        "147.0.7727.22",
         "146.0.7680.151",
-        "145.0.7632.108",
-        "144.0.7559.95"
+        "145.0.7632.108"
       ]
     },
     "edge": {
@@ -94,6 +96,13 @@
       "browser": "chrome",
       "platform": "desktop",
       "os": "windows",
+      "browser_major_version": "147",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "windows",
       "browser_major_version": "146",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     },
@@ -103,6 +112,13 @@
       "os": "windows",
       "browser_major_version": "145",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "macos",
+      "browser_major_version": "147",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     },
     {
       "browser": "chrome",
