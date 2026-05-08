@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T08:08:12Z",
+  "updated_at": "2026-05-08T07:11:20Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -17,12 +17,12 @@
   },
   "resolved_versions": {
     "firefox": {
-      "windows": "150.0.1",
-      "macos": "150.0.1",
-      "linux": "150.0.1",
-      "ubuntu": "150.0.1",
-      "android": "150.0.1",
-      "ios": "150.0.1"
+      "windows": "150.0.2",
+      "macos": "150.0.2",
+      "linux": "150.0.2",
+      "ubuntu": "150.0.2",
+      "android": "150.0.2",
+      "ios": "150.0.2"
     },
     "chrome": {
       "windows": [
@@ -54,9 +54,9 @@
     "edge": {
       "ios": "147.0.3912.87",
       "android": "147.0.3912.87",
-      "macos": "147.0.3912.98",
-      "windows": "147.0.3912.98",
-      "linux": "147.0.3912.98"
+      "macos": "148.0.3967.54",
+      "windows": "148.0.3967.54",
+      "linux": "148.0.3967.54"
     },
     "safari": {
       "macos": "26.4",
@@ -159,8 +159,8 @@
       "browser": "edge",
       "platform": "desktop",
       "os": "windows",
-      "browser_major_version": "147",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+      "browser_major_version": "148",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0"
     },
     {
       "browser": "safari",
