@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T07:50:08Z",
+  "updated_at": "2026-05-11T08:50:55Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -52,11 +52,11 @@
       ]
     },
     "edge": {
-      "ios": "147.0.3912.87",
-      "android": "147.0.3912.87",
       "macos": "148.0.3967.54",
       "windows": "148.0.3967.54",
-      "linux": "148.0.3967.54"
+      "linux": "148.0.3967.54",
+      "ios": "148.0.3967.55",
+      "android": "148.0.3967.55"
     },
     "safari": {
       "macos": "26.4",
