@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T08:50:55Z",
+  "updated_at": "2026-05-12T08:15:42Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -59,8 +59,8 @@
       "android": "148.0.3967.55"
     },
     "safari": {
-      "macos": "26.4",
-      "ios": "26.4"
+      "macos": "26.5",
+      "ios": "26.5"
     }
   },
   "user_agents": [
@@ -167,7 +167,7 @@
       "platform": "desktop",
       "os": "macos",
       "browser_major_version": "26",
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
     }
   ]
 }
