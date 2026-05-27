@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T09:00:36Z",
+  "updated_at": "2026-05-27T08:54:22Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -17,12 +17,12 @@
   },
   "resolved_versions": {
     "firefox": {
-      "windows": "151.0.1",
-      "macos": "151.0.1",
-      "linux": "151.0.1",
-      "ubuntu": "151.0.1",
-      "android": "151.0",
-      "ios": "151.0"
+      "windows": "151.0.2",
+      "macos": "151.0.2",
+      "linux": "151.0.2",
+      "ubuntu": "151.0.2",
+      "android": "151.0.2",
+      "ios": "151.0.2"
     },
     "chrome": {
       "windows": [
