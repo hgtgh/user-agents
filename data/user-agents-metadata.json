@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T09:37:01Z",
+  "updated_at": "2026-06-05T08:58:32Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -52,11 +52,11 @@
       ]
     },
     "edge": {
-      "windows": "148.0.3967.96",
-      "macos": "148.0.3967.96",
-      "linux": "148.0.3967.96",
       "ios": "148.0.3967.97",
-      "android": "148.0.3967.97"
+      "android": "148.0.3967.97",
+      "macos": "149.0.4022.52",
+      "windows": "149.0.4022.52",
+      "linux": "149.0.4022.52"
     },
     "safari": {
       "macos": "26.5",
@@ -159,8 +159,8 @@
       "browser": "edge",
       "platform": "desktop",
       "os": "windows",
-      "browser_major_version": "148",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0"
+      "browser_major_version": "149",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
     },
     {
       "browser": "safari",
