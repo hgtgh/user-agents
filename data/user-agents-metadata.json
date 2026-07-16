@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T07:44:10Z",
+  "updated_at": "2026-07-16T07:49:26Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -26,11 +26,13 @@
     },
     "chrome": {
       "windows": [
-        "150.0.7871.125",
+        "151.0.7922.34",
+        "150.0.7871.126",
         "149.0.7827.201"
       ],
       "macos": [
-        "150.0.7871.125",
+        "151.0.7922.34",
+        "150.0.7871.126",
         "149.0.7827.201"
       ],
       "linux": [
@@ -39,14 +41,14 @@
         "148.0.7778.215"
       ],
       "android": [
-        "150.0.7871.124",
-        "149.0.7827.201",
-        "148.0.7778.217"
+        "151.0.7922.29",
+        "150.0.7871.125",
+        "149.0.7827.201"
       ],
       "ios": [
+        "151.0.7922.25",
         "150.0.7871.113",
-        "149.0.7827.137",
-        "148.0.7778.166"
+        "149.0.7827.137"
       ]
     },
     "edge": {
@@ -94,6 +96,13 @@
       "browser": "chrome",
       "platform": "desktop",
       "os": "windows",
+      "browser_major_version": "151",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "windows",
       "browser_major_version": "150",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     },
@@ -103,6 +112,13 @@
       "os": "windows",
       "browser_major_version": "149",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "macos",
+      "browser_major_version": "151",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
     },
     {
       "browser": "chrome",
