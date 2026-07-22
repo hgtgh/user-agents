@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T08:00:55Z",
+  "updated_at": "2026-07-22T08:01:31Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -17,36 +17,36 @@
   },
   "resolved_versions": {
     "firefox": {
-      "windows": "152.0.6",
-      "macos": "152.0.6",
-      "linux": "152.0.6",
-      "ubuntu": "152.0.6",
-      "android": "152.0.6",
-      "ios": "152.0.6"
+      "windows": "153.0",
+      "macos": "153.0",
+      "linux": "153.0",
+      "ubuntu": "153.0",
+      "android": "153.0",
+      "ios": "153.0"
     },
     "chrome": {
       "windows": [
         "151.0.7922.34",
-        "150.0.7871.129",
+        "150.0.7871.182",
         "149.0.7827.201"
       ],
       "macos": [
         "151.0.7922.34",
-        "150.0.7871.129",
+        "150.0.7871.182",
         "149.0.7827.201"
       ],
       "linux": [
-        "150.0.7871.128",
+        "150.0.7871.181",
         "149.0.7827.200",
         "148.0.7778.215"
       ],
       "android": [
         "151.0.7922.29",
-        "150.0.7871.128",
+        "150.0.7871.181",
         "149.0.7827.201"
       ],
       "ios": [
-        "151.0.7922.25",
+        "151.0.7922.43",
         "150.0.7871.113",
         "149.0.7827.137"
       ]
@@ -68,29 +68,29 @@
       "browser": "firefox",
       "platform": "desktop",
       "os": "windows",
-      "browser_major_version": "152",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
+      "browser_major_version": "153",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "macos",
-      "browser_major_version": "152",
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0"
+      "browser_major_version": "153",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:153.0) Gecko/20100101 Firefox/153.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "linux",
-      "browser_major_version": "152",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+      "browser_major_version": "153",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "ubuntu",
-      "browser_major_version": "152",
-      "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
+      "browser_major_version": "153",
+      "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0"
     },
     {
       "browser": "chrome",
