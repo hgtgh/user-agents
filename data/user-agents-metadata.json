@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T08:12:07Z",
+  "updated_at": "2026-07-30T08:00:09Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -26,23 +26,23 @@
     },
     "chrome": {
       "windows": [
-        "151.0.7922.47",
-        "150.0.7871.187",
+        "151.0.7922.72",
+        "150.0.7871.188",
         "149.0.7827.201"
       ],
       "macos": [
-        "151.0.7922.47",
-        "150.0.7871.187",
+        "151.0.7922.72",
+        "150.0.7871.188",
         "149.0.7827.201"
       ],
       "linux": [
+        "151.0.7922.71",
         "150.0.7871.186",
-        "149.0.7827.200",
-        "148.0.7778.215"
+        "149.0.7827.200"
       ],
       "android": [
-        "151.0.7922.47",
-        "150.0.7871.186",
+        "151.0.7922.71",
+        "150.0.7871.187",
         "149.0.7827.201"
       ],
       "ios": [
@@ -138,6 +138,13 @@
       "browser": "chrome",
       "platform": "desktop",
       "os": "linux",
+      "browser_major_version": "151",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "linux",
       "browser_major_version": "150",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     },
@@ -147,13 +154,6 @@
       "os": "linux",
       "browser_major_version": "149",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "browser": "chrome",
-      "platform": "desktop",
-      "os": "linux",
-      "browser_major_version": "148",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     },
     {
       "browser": "edge",
