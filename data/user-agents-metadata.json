@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:10:27Z",
+  "updated_at": "2026-09-10T10:05:42Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -26,14 +26,14 @@
     },
     "chrome": {
       "windows": [
+        "154.0.8037.17",
         "153.0.8010.37",
-        "152.0.7977.84",
-        "151.0.7922.176"
+        "152.0.7977.85"
       ],
       "macos": [
+        "154.0.8037.17",
         "153.0.8010.37",
-        "152.0.7977.84",
-        "151.0.7922.176"
+        "152.0.7977.85"
       ],
       "linux": [
         "153.0.8010.36",
@@ -41,9 +41,9 @@
         "151.0.7922.173"
       ],
       "android": [
+        "154.0.8037.21",
         "153.0.8010.36",
-        "152.0.7977.83",
-        "151.0.7922.175"
+        "152.0.7977.84"
       ],
       "ios": [
         "153.0.8010.24",
@@ -96,6 +96,13 @@
       "browser": "chrome",
       "platform": "desktop",
       "os": "windows",
+      "browser_major_version": "154",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "windows",
       "browser_major_version": "153",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
     },
@@ -109,9 +116,9 @@
     {
       "browser": "chrome",
       "platform": "desktop",
-      "os": "windows",
-      "browser_major_version": "151",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      "os": "macos",
+      "browser_major_version": "154",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
     },
     {
       "browser": "chrome",
@@ -126,13 +133,6 @@
       "os": "macos",
       "browser_major_version": "152",
       "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    {
-      "browser": "chrome",
-      "platform": "desktop",
-      "os": "macos",
-      "browser_major_version": "151",
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
     },
     {
       "browser": "chrome",
