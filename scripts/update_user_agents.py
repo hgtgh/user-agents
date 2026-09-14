@@ -1,52 +1,27 @@
 #!/usr/bin/env python3
+"""Entry point that regenerates the user-agents dataset.
+
+Thin wrapper so the tool runs straight from a checkout (``python3
+scripts/update_user_agents.py``) or via the ``user-agents-update`` console
+script once the package is installed.
+"""
+
 from __future__ import annotations
 
 import sys
-from datetime import datetime, timezone
 from pathlib import Path
 
-ROOT_DIR = Path(__file__).resolve().parent.parent
+# Make the src-layout package importable without relying on an external PYTHONPATH.
+SRC_DIR = Path(__file__).resolve().parent.parent / "src"
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
-from user_agents_updater import fetch_json
-from user_agents_updater.json_io import write_pretty_json
-from user_agents_updater.service import UserAgentService
-
-OUT_DIR = ROOT_DIR / "data"
-OUT_LIST_FILE = OUT_DIR / "user-agents.json"
-OUT_METADATA_FILE = OUT_DIR / "user-agents-metadata.json"
-
-
-def main() -> int:
-    print("Updating user-agents...", flush=True)
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    service = UserAgentService()
-    resolved_versions, sources, user_agents = service.generate(fetch_json)
-
-    now = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-
-    user_agents_payload = {
-        "updated_at": now,
-        "sources": sources,
-        "resolved_versions": resolved_versions.to_dict(),
-        "user_agents": user_agents,
-    }
-    user_agents_list_payload = [
-        entry["user_agent"]
-        for entry in user_agents_payload["user_agents"]
-    ]
-
-    write_pretty_json(OUT_LIST_FILE, user_agents_list_payload)
-    write_pretty_json(OUT_METADATA_FILE, user_agents_payload)
-
-    print(f"Done: {len(user_agents)} user-agents", flush=True)
-    print(f"- {OUT_LIST_FILE}", flush=True)
-    print(f"- {OUT_METADATA_FILE}", flush=True)
-    return 0
+from user_agents_updater.cli import main_update  # noqa: E402
 
 
 if __name__ == "__main__":
     try:
-        raise SystemExit(main())
-    except Exception as exc:
+        raise SystemExit(main_update())
+    except Exception as exc:  # noqa: BLE001 - top-level guard for standalone runs
         print(f"Error: {exc}", file=sys.stderr)
-        raise SystemExit(1)
+        raise SystemExit(1) from exc
