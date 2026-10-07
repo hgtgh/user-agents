@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T12:15:41Z",
+  "updated_at": "2026-10-07T12:07:01Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -17,36 +17,36 @@
   },
   "resolved_versions": {
     "firefox": {
-      "windows": "157.0",
-      "macos": "157.0",
-      "linux": "157.0",
-      "ubuntu": "157.0",
-      "android": "157.0",
-      "ios": "157.0"
+      "windows": "157.0.1",
+      "macos": "157.0.1",
+      "linux": "157.0.1",
+      "ubuntu": "157.0.1",
+      "android": "157.0.1",
+      "ios": "157.0.1"
     },
     "chrome": {
       "windows": [
-        "155.0.8059.26",
-        "154.0.8037.98",
+        "155.0.8059.40",
+        "154.0.8037.99",
         "153.0.8010.55"
       ],
       "macos": [
-        "155.0.8059.26",
-        "154.0.8037.98",
+        "155.0.8059.40",
+        "154.0.8037.99",
         "153.0.8010.55"
       ],
       "linux": [
+        "155.0.8059.39",
         "154.0.8037.97",
-        "153.0.8010.52",
-        "152.0.7977.82"
+        "153.0.8010.52"
       ],
       "android": [
-        "155.0.8059.30",
-        "154.0.8037.126",
+        "155.0.8059.39",
+        "154.0.8037.127",
         "153.0.8010.53"
       ],
       "ios": [
-        "155.0.8059.24",
+        "155.0.8059.37",
         "154.0.8037.55",
         "153.0.8010.24"
       ]
@@ -138,6 +138,13 @@
       "browser": "chrome",
       "platform": "desktop",
       "os": "linux",
+      "browser_major_version": "155",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "linux",
       "browser_major_version": "154",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
     },
@@ -147,13 +154,6 @@
       "os": "linux",
       "browser_major_version": "153",
       "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
-    },
-    {
-      "browser": "chrome",
-      "platform": "desktop",
-      "os": "linux",
-      "browser_major_version": "152",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
     },
     {
       "browser": "edge",
