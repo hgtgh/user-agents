@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:42:10Z",
+  "updated_at": "2026-10-23T10:34:18Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -26,9 +26,9 @@
     },
     "chrome": {
       "windows": [
-        "156.0.8078.48",
-        "155.0.8059.86",
-        "154.0.8037.100"
+        "157.0.8103.15",
+        "156.0.8078.49",
+        "155.0.8059.86"
       ],
       "macos": [
         "156.0.8078.48",
@@ -41,22 +41,22 @@
         "154.0.8037.97"
       ],
       "android": [
-        "156.0.8078.47",
-        "155.0.8059.87",
-        "154.0.8037.127"
+        "157.0.8103.14",
+        "156.0.8078.48",
+        "155.0.8059.88"
       ],
       "ios": [
-        "156.0.8078.46",
+        "156.0.8078.54",
         "155.0.8059.37",
         "154.0.8037.55"
       ]
     },
     "edge": {
       "macos": "152.0.4191.53",
-      "windows": "155.0.4283.62",
-      "linux": "155.0.4283.62",
       "ios": "155.0.4283.61",
-      "android": "155.0.4283.61"
+      "android": "155.0.4283.61",
+      "windows": "156.0.4314.42",
+      "linux": "156.0.4314.42"
     },
     "safari": {
       "macos": "27",
@@ -96,6 +96,13 @@
       "browser": "chrome",
       "platform": "desktop",
       "os": "windows",
+      "browser_major_version": "157",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    {
+      "browser": "chrome",
+      "platform": "desktop",
+      "os": "windows",
       "browser_major_version": "156",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
     },
@@ -105,13 +112,6 @@
       "os": "windows",
       "browser_major_version": "155",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    {
-      "browser": "chrome",
-      "platform": "desktop",
-      "os": "windows",
-      "browser_major_version": "154",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
     },
     {
       "browser": "chrome",
@@ -159,8 +159,8 @@
       "browser": "edge",
       "platform": "desktop",
       "os": "windows",
-      "browser_major_version": "155",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
+      "browser_major_version": "156",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0"
     },
     {
       "browser": "safari",
