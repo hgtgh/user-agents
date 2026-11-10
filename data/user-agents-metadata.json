@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T14:26:54Z",
+  "updated_at": "2026-11-10T13:48:54Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -17,32 +17,32 @@
   },
   "resolved_versions": {
     "firefox": {
-      "windows": "159.0.1",
-      "macos": "159.0.1",
-      "linux": "159.0.1",
-      "ubuntu": "159.0.1",
-      "android": "159.0.1",
-      "ios": "159.0.1"
+      "windows": "160.0",
+      "macos": "160.0",
+      "linux": "160.0",
+      "ubuntu": "160.0",
+      "android": "160.0",
+      "ios": "160.0"
     },
     "chrome": {
       "windows": [
         "158.0.8127.18",
-        "157.0.8103.39",
+        "157.0.8103.51",
         "156.0.8078.82"
       ],
       "macos": [
         "158.0.8127.18",
-        "157.0.8103.39",
+        "157.0.8103.51",
         "156.0.8078.82"
       ],
       "linux": [
-        "157.0.8103.38",
+        "157.0.8103.50",
         "156.0.8078.79",
         "155.0.8059.84"
       ],
       "android": [
         "158.0.8127.22",
-        "157.0.8103.47",
+        "157.0.8103.50",
         "156.0.8078.81"
       ],
       "ios": [
@@ -53,10 +53,10 @@
     },
     "edge": {
       "macos": "152.0.4191.53",
-      "windows": "157.0.4341.42",
-      "linux": "157.0.4341.42",
       "ios": "157.0.4341.42",
-      "android": "157.0.4341.42"
+      "android": "157.0.4341.42",
+      "windows": "157.0.4341.46",
+      "linux": "157.0.4341.46"
     },
     "safari": {
       "macos": "27.2",
@@ -68,29 +68,29 @@
       "browser": "firefox",
       "platform": "desktop",
       "os": "windows",
-      "browser_major_version": "159",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:159.0) Gecko/20100101 Firefox/159.0"
+      "browser_major_version": "160",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:160.0) Gecko/20100101 Firefox/160.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "macos",
-      "browser_major_version": "159",
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:159.0) Gecko/20100101 Firefox/159.0"
+      "browser_major_version": "160",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:160.0) Gecko/20100101 Firefox/160.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "linux",
-      "browser_major_version": "159",
-      "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+      "browser_major_version": "160",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
     },
     {
       "browser": "firefox",
       "platform": "desktop",
       "os": "ubuntu",
-      "browser_major_version": "159",
-      "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:159.0) Gecko/20100101 Firefox/159.0"
+      "browser_major_version": "160",
+      "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:160.0) Gecko/20100101 Firefox/160.0"
     },
     {
       "browser": "chrome",
