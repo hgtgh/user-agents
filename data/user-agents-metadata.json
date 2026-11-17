@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T14:03:26Z",
+  "updated_at": "2026-11-17T14:57:09Z",
   "sources": {
     "firefox": {
       "desktop": "https://product-details.mozilla.org/1.0/firefox_versions.json",
@@ -17,10 +17,10 @@
   },
   "resolved_versions": {
     "firefox": {
-      "windows": "160.0",
-      "macos": "160.0",
-      "linux": "160.0",
-      "ubuntu": "160.0",
+      "windows": "160.0.1",
+      "macos": "160.0.1",
+      "linux": "160.0.1",
+      "ubuntu": "160.0.1",
       "android": "160.0",
       "ios": "160.0"
     },
